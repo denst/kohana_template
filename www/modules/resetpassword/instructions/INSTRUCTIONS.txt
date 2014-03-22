@@ -1,0 +1,6 @@
+Dependence:
+1. Email Module
+2. Helper Appform
+3. Helper Message
+4. Helper Values
+5. Model User function 'set_new_password'

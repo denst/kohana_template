@@ -1,0 +1,4 @@
+1. Rename routes name in init.php
+2. Rename controller name in route and in controller file
+3. Rename class name
+4. Rename templante name and path for template
